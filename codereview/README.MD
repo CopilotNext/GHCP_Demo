@@ -18,3 +18,9 @@ GHCP的Code Review包括三种方式：
        下面是一个使用GHCP的云端Code Review功能的例子: 展示了针对一个Java项目提交到云端的修改，利用GHCP手工进行Code Review的过程。
 
 ![Video Project](https://github.com/CopilotNext/GHCP_Demo/blob/main/codereview/resources/cloudcodereview.gif)
+
+### 3. Copilot自动Code Review模式：针对用户提交的PR，Copilot作为PR Review的成员，对于变更内容进行代码评审，发现可能的问题。
+       
+       下面是一个使用Copilot自动Code Review功能的例子: 展示了针对一个Java项目提交到云端的PR，在本地Code Review基础上，利用Copilot进行Code Review的过程。
+
+![Video Project](https://github.com/CopilotNext/GHCP_Demo/blob/main/codereview/resources/prreview.gif)
