@@ -4,4 +4,4 @@ Github为了服务于LLM应用开发，构建了完整LLM开发使用的服务�
 
 ### 下面介绍了使用Github Copilot Modle Market进行试验开发的过程：
 
-![Video Project](https://github.com/CopilotNext/GHCP_Demo/blob/main/modelMarket/resources/model.gif)
+![Video Project](https://github.com/CopilotNext/GHCP_Demo/blob/main/modeMarket/resources/model.gif)
