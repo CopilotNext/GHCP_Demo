@@ -6,6 +6,6 @@
 
 ![Video Project](https://github.com/CopilotNext/GHCP_Demo/blob/main/symbol/resources/symbol.gif)
 
-### 2. 下面一个例子是在Github Copilot Chat中使用#sym，选择相关Symbol进行分析：
+### 2. 下面一个例子是在Github Copilot Chat中使用#sym，选择相关Symbol进行分析的情况：
 
 ![Video Project](https://github.com/CopilotNext/GHCP_Demo/blob/main/symbol/resources/symsel.gif)
