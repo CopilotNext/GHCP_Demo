@@ -12,22 +12,22 @@ Custom Prompt功能设置有两种方式：
 
        B. 打开相关的VS Code配置json，配置对应text和file选项：
 
-[setting_json](./resources/setting_json.png)
+![setting_json](./resources/setting_json.png)
 
        C. 对于specification.md文件也进行配置：
 
-[specification](./resources/specification.png)
+![specification](./resources/specification.png)
 
 
 ### 2. 本地Workspace设定模式：用户可以在各自的.github/copilot-instructions.md进行设置，GHCP自己会去寻找此内容，实现对GHCP生成代码进行规范：
 
        A. 使用VS Code的Setting设置找到github.copilot.chat.codeGeneration.useInstructionFiles配置项并打开，如下图所示：
 
-[instructionsetting](./resources/instructionsetting.png)
+![instructionsetting](./resources/instructionsetting.png)
 
        B. 配置.github/copilot-instructions.md,实现相关规范，如下图所示：
 
-[instruction](./resources/instruction.png)
+![instruction](./resources/instruction.png)
 
 
 下面是一个GHCP Custom Prompt的例子，实现了完整过程的定义，并融合了上面两种设定方式，GHCP自动进行了规则合并，实现了规范GHCP代码生成的要求。
