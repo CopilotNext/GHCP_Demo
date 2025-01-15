@@ -13,7 +13,7 @@ GHCP的创建Debug配置和环境的两种方式例子，配置的是Python调�
        
        在使用copilot-debug命令前，需要打开copilot-debug命令开关:在VS Code的设置中搜索copilot-debug，打开开关即可使用,具体如下图。
 
-       ![mult](./resources/debugconfig.png)
+![mult](./resources/debugconfig.png)
 
        使用copilot-debug开关打开后，具体使用copilot-debug过程如下：
 
