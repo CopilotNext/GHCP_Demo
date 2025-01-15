@@ -4,16 +4,17 @@
 
 GHCP的创建Debug配置和环境的两种方式例子，配置的是Python调试环境，其他语言也类似：
 
-### 1. 使用GHCP的Chat中使用@vscode /startDebugging方式快速创建：
+### 1. 使用GHCP的Chat中使用@vscode /startDebugging方式快速创建Debug配置：
        
 ![@vscode /startDebugging](https://github.com/CopilotNext/GHCP_Demo/blob/main/copilotdebug/resources/setupdebug.gif)
 
 
-### 2. 使用copilot-debug命令创景：
+### 2. 使用copilot-debug命令创建Debug配置：
        
        在使用copilot-debug命令前，需要打开copilot-debug命令开关:在VS Code的设置中搜索copilot-debug，打开开关即可使用,具体如下图。
 
        ![mult](./resources/debugconfig.png)
 
+       使用copilot-debug开关打开后，具体使用copilot-debug过程如下：
 
 ![copilot-debug](https://github.com/CopilotNext/GHCP_Demo/blob/main/copilotdebug/resources/copilotdebug.gif)
