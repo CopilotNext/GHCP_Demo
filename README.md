@@ -1,9 +1,11 @@
 # GHCP_Demo
 这个内容用为为GitHub Copilot的用户学习使用GHCP提供服务！
 
-目前整理了截至 2025.1月的重要Github Copilot新特性功能：
+目前整理了截至 2025.1月的重要Github Copilot新特性功能，请每个内容点入详细观看：
 
 ## 1. 多文本编辑 - [Multi Files Edit](./mutlEdit/README.MD)
+
+![多文本编辑](./mutlEdit/resources/Video-Project.gif)
 
 ## 2. GHCP的智能代码评审 - [GHCP Code Review](./codereview/README.MD)
 
