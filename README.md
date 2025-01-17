@@ -23,7 +23,7 @@
 
 ![自定义提示词](./customPrompt/resources/custprompt.gif)
 
-## 6. GHCP的模型市场 - [GHCP Workspace](./modeMarket/README.MD)
+## 6. GHCP的模型市场 - [GHCP Model Market](./modeMarket/README.MD)
 
 ![模型市场](./modeMarket/resources/model.gif)
 
